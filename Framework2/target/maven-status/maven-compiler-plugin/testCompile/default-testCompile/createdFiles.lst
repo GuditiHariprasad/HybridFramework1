@@ -1,0 +1,9 @@
+com\wmk\utilities\Reporting.class
+com\wmk\testCases\TC_LoginTest_001.class
+com\wmk\utilities\XLUtils.class
+com\wmk\pageObjects\LoginPage.class
+com\wmk\testCases\TC_AddCustomerTest_003.class
+com\wmk\pageObjects\AddcustomerPage.class
+com\wmk\testCases\TC_LoginDDT_002.class
+com\wmk\testCases\BaseClass.class
+com\wmk\utilities\ReadConfig.class

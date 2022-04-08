@@ -1,0 +1,73 @@
+2022-04-06 23:11:18,834 [main] INFO eCommerce - User provided
+2022-04-06 23:11:18,965 [main] INFO eCommerce - Password provided
+2022-04-06 23:11:26,767 [main] INFO eCommerce - Login in Clicked
+2022-04-06 23:11:33,838 [main] INFO eCommerce - Login Passed
+2022-04-06 23:32:17,039 [main] INFO eCommerce - User provided
+2022-04-06 23:32:17,169 [main] INFO eCommerce - Password provided
+2022-04-06 23:32:36,857 [main] INFO eCommerce - Login in Clicked
+2022-04-06 23:32:44,698 [main] INFO eCommerce - Login Passed
+2022-04-06 23:51:57,108 [TestNG-tests-1] INFO eCommerce - User provided
+2022-04-06 23:51:57,303 [TestNG-tests-1] INFO eCommerce - Password provided
+2022-04-06 23:52:12,807 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2022-04-06 23:54:24,457 [TestNG-tests-1] INFO eCommerce - User provided
+2022-04-06 23:54:24,642 [TestNG-tests-1] INFO eCommerce - Password provided
+2022-04-06 23:54:30,150 [TestNG-tests-3] INFO eCommerce - User provided
+2022-04-06 23:54:30,248 [TestNG-tests-3] INFO eCommerce - Password provided
+2022-04-06 23:54:30,836 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2022-04-06 23:54:33,061 [TestNG-tests-3] INFO eCommerce - Login in Clicked
+2022-04-06 23:56:41,892 [TestNG-tests-1] INFO eCommerce - User provided
+2022-04-06 23:56:41,940 [TestNG-tests-3] INFO eCommerce - User provided
+2022-04-06 23:56:42,024 [TestNG-tests-1] INFO eCommerce - Password provided
+2022-04-06 23:56:42,042 [TestNG-tests-3] INFO eCommerce - Password provided
+2022-04-06 23:56:42,317 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2022-04-06 23:56:42,595 [TestNG-tests-3] INFO eCommerce - Login in Clicked
+2022-04-07 00:03:54,181 [main] INFO eCommerce - User provided
+2022-04-07 00:03:54,344 [main] INFO eCommerce - Password provided
+2022-04-07 00:04:14,834 [main] INFO eCommerce - Login in Clicked
+2022-04-07 00:55:24,442 [main] INFO eCommerce - User provided
+2022-04-07 00:55:24,586 [main] INFO eCommerce - Password provided
+2022-04-07 00:55:28,935 [main] INFO eCommerce - Login in Clicked
+2022-04-07 00:55:35,811 [main] INFO eCommerce - Login Passed
+2022-04-07 01:17:53,410 [main] INFO eCommerce - User provided
+2022-04-07 01:17:53,570 [main] INFO eCommerce - Password provided
+2022-04-07 01:18:07,452 [main] INFO eCommerce - Login in Clicked
+2022-04-07 01:18:19,429 [main] INFO eCommerce - User provided
+2022-04-07 01:18:19,563 [main] INFO eCommerce - Password provided
+2022-04-07 01:18:23,827 [main] INFO eCommerce - Login in Clicked
+2022-04-07 09:28:34,730 [main] INFO eCommerce - User provided
+2022-04-07 09:28:34,864 [main] INFO eCommerce - Password provided
+2022-04-07 09:28:52,790 [main] INFO eCommerce - Login in Clicked
+2022-04-07 09:29:21,664 [main] INFO eCommerce - User provided
+2022-04-07 09:29:21,797 [main] INFO eCommerce - Password provided
+2022-04-07 09:29:25,522 [main] INFO eCommerce - Login in Clicked
+2022-04-07 09:29:42,907 [main] INFO eCommerce - User provided
+2022-04-07 09:29:43,049 [main] INFO eCommerce - Password provided
+2022-04-07 09:29:43,658 [main] INFO eCommerce - Login in Clicked
+2022-04-07 09:29:45,669 [main] INFO eCommerce - Login Failed
+2022-04-07 09:29:47,023 [main] INFO eCommerce - User provided
+2022-04-07 09:29:47,169 [main] INFO eCommerce - Password provided
+2022-04-07 09:29:47,698 [main] INFO eCommerce - Login in Clicked
+2022-04-07 09:29:49,720 [main] INFO eCommerce - Login Failed
+2022-04-07 09:29:51,209 [main] INFO eCommerce - User provided
+2022-04-07 09:29:51,408 [main] INFO eCommerce - Password provided
+2022-04-07 09:29:51,957 [main] INFO eCommerce - Login in Clicked
+2022-04-07 09:29:53,970 [main] INFO eCommerce - Login Failed
+2022-04-07 09:30:00,328 [main] INFO eCommerce - User name is provided
+2022-04-07 09:30:00,506 [main] INFO eCommerce - password is provided
+2022-04-07 09:30:05,189 [main] INFO eCommerce - providing customer details....
+2022-04-07 09:32:04,030 [main] INFO eCommerce - User name is provided
+2022-04-07 09:32:04,221 [main] INFO eCommerce - password is provided
+2022-04-07 09:32:12,033 [main] INFO eCommerce - providing customer details....
+2022-04-07 09:46:07,097 [main] INFO eCommerce - User name is provided
+2022-04-07 09:46:07,219 [main] INFO eCommerce - password is provided
+2022-04-07 09:46:10,519 [main] INFO eCommerce - providing customer details....
+2022-04-07 23:26:59,881 [main] INFO eCommerce - User provided
+2022-04-07 23:27:00,018 [main] INFO eCommerce - Password provided
+2022-04-07 23:27:04,642 [main] INFO eCommerce - Login in Clicked
+2022-04-07 23:42:45,542 [main] INFO eCommerce - User provided
+2022-04-07 23:42:45,668 [main] INFO eCommerce - Password provided
+2022-04-07 23:42:49,732 [main] INFO eCommerce - Login in Clicked
+2022-04-08 10:51:23,936 [main] INFO eCommerce - User provided
+2022-04-08 10:51:24,063 [main] INFO eCommerce - Password provided
+2022-04-08 10:51:58,310 [main] INFO eCommerce - Login in Clicked
+2022-04-08 10:52:04,341 [main] INFO eCommerce - Login Passed
